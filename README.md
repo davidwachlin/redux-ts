@@ -1,4 +1,4 @@
-TypeScript CRA - Redux boilerplate
+TypeScript CRA - Redux boilerplate from Stephen Grider
 
 
 # Getting Started with Create React App
